@@ -1,0 +1,10 @@
+baab
+a
+ab
+aaa
+baa
+b
+aaab
+baabbab
+baabab
+grep -w "^b[grep -w [a]*b]*" strings.txt
